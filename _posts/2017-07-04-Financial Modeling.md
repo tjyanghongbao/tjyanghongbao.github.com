@@ -9,12 +9,12 @@ title: Financial Modeling
 <p class="meta">03 July 2017 - HONG KONG</p>
 <center>介绍</center>
 
-##1.1 介绍
+## 1.1 介绍
 
 建模一般分为两类
 
 1.财务建模，侧重对公司的估值（value），帮助我们找到被低估的股票买入，被高估的股票卖出，
-及格雷厄姆所说的价值分析的理念，用基于未来现金流折现来估值，即DCF模型。
+即格雷厄姆所说的价值分析的理念，用基于未来现金流折现来估值，即DCF模型。
 
 2.产品建模（编程eg.二叉树）
 
@@ -26,7 +26,7 @@ title: Financial Modeling
 2.Excel无影手
 
 
-##1.2Excel基本技巧介绍（基于win)
+## 1.2Excel基本技巧介绍（基于win)
 
 练无影手基本原理：凡事都问Alt键
 
@@ -45,7 +45,7 @@ title: Financial Modeling
 	③绿色：引用（不要Ctrl C/V）
 	④红色：存疑
 
-##1.3估值基本原理
+## 1.3估值基本原理
 
 目标：找到价值
 

@@ -7,9 +7,9 @@ title: Financial Modeling
 ================
 
 <p class="meta">03 July 2017 - HONG KONG</p>
-1.介绍
+<center>介绍</center>
 
-1.1 介绍
+##1.1 介绍
 
 建模一般分为两类
 
@@ -26,7 +26,7 @@ title: Financial Modeling
 2.Excel无影手
 
 
-1.2Excel基本技巧介绍（基于win）
+##1.2Excel基本技巧介绍（基于win)
 
 练无影手基本原理：凡事都问Alt键
 
@@ -45,21 +45,24 @@ title: Financial Modeling
 	③绿色：引用（不要Ctrl C/V）
 	④红色：存疑
 
-1.3估值基本原理
+##1.3估值基本原理
 
 目标：找到价值
 
 前提假设
 	Price≠Value
+
 原理：DCF（未来现金流折现）
+
 Two-stage:
+
 通常取三年的历史数据
 
 历史（3年、5年）=> 找到驱动因素=>假设※=>预测（能够精准预测的一般5年）
 
 假设很重要，不同功力的人所做假设不一样
 
-重要的东西，要做精准估计
+重要的东西，要做精准估计;
 不重要的东西，可以做简单估计
 
 求终值①GGM（D0(1=+g)/(r-g)） ②乘数法：P/E*EPS
